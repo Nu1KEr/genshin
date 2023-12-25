@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>3 x Опыт героя</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>612</td>
+    <td>613</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>347</td>
+    <td>348</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -1376,6 +1376,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Сян Лин</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Сян Лин</h3></th>
+      <th><h3 align="center">Копьё Драконьего хребта</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0bc0d64a7c9ac4619524022f6c902c15.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>4 x Инструктор<br />1 x Церемония древней знати<br /></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё Драконьего хребта</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Фишль</b></summary>
   <br />
   <table>
@@ -1536,6 +1616,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Розария</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Розария</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c0c291cc44193b21e1510843ae62b484.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td>За вольный дух церкви</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё новичка</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Тома</b></summary>
   <br />
   <table>
@@ -1605,86 +1765,6 @@
           <tr>
             <td>Уровень</td>
             <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Сян Лин</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Сян Лин</h3></th>
-      <th><h3 align="center">Копьё Драконьего хребта</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0bc0d64a7c9ac4619524022f6c902c15.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>4 x Инструктор<br />1 x Церемония древней знати<br /></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Копьё Драконьего хребта</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>40</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -1769,86 +1849,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Розария</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Розария</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c0c291cc44193b21e1510843ae62b484.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td>За вольный дух церкви</td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Копьё новичка</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
