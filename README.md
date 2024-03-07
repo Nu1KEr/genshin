@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Мора</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>613</td>
+    <td>640</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>364</td>
+    <td>366</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>298</td>
+    <td>335</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>0</td>
+    <td>211</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1977</td>
+    <td>2094</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1317</td>
+    <td>1437</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>385</td>
+    <td>418</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>141</td>
+    <td>153</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>98</td>
+    <td>122</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
 </table>
 
@@ -77,6 +77,7 @@
 <table>
   <tr>
     <th>Верхнее ущелье Чэньюй</th>
+    <th>Южные холмы Чэньюй</th>
     <th>Фонтейн</th>
     <th>Сумеру</th>
     <th>Разлом: Подземные шахты</th>
@@ -89,6 +90,14 @@
     <th>Долина Чэньюй</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -184,7 +193,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/1/" width="80" />
+            <img src="https://progress-bar.dev/28/" width="80" />
           </td>
         </tr>
         <tr>
@@ -198,7 +207,21 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/1/" width="80" />
+            <img src="https://progress-bar.dev/28/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/39/" width="80" />
           </td>
         </tr>
         <tr>
@@ -212,7 +235,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/63/" width="80" />
+            <img src="https://progress-bar.dev/80/" width="80" />
           </td>
         </tr>
         <tr>
