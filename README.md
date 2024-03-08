@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>8000 x Мора</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>640</td>
+    <td>654</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>366</td>
+    <td>367</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>335</td>
+    <td>361</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>2094</td>
+    <td>2152</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1437</td>
+    <td>1473</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>418</td>
+    <td>433</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>153</td>
+    <td>156</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>122</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
 </table>
 
@@ -78,6 +78,7 @@
   <tr>
     <th>Верхнее ущелье Чэньюй</th>
     <th>Южные холмы Чэньюй</th>
+    <th>Гора Лайсинь</th>
     <th>Фонтейн</th>
     <th>Сумеру</th>
     <th>Разлом: Подземные шахты</th>
@@ -90,6 +91,14 @@
     <th>Долина Чэньюй</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -193,7 +202,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/28/" width="80" />
+            <img src="https://progress-bar.dev/70/" width="80" />
           </td>
         </tr>
         <tr>
@@ -207,7 +216,21 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/28/" width="80" />
+            <img src="https://progress-bar.dev/58/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/44/" width="80" />
           </td>
         </tr>
         <tr>
@@ -235,7 +258,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/80/" width="80" />
+            <img src="https://progress-bar.dev/82/" width="80" />
           </td>
         </tr>
         <tr>
@@ -352,7 +375,7 @@
         </tr>
         <tr>
           <td>Уровень</td>
-          <td>0</td>
+          <td>9</td>
         </tr>
       </table>
     </td>
@@ -370,11 +393,58 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>210</td>
+    <td>211</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
     <td>2</td>
+  </tr>
+</table>
+<h2>Витая Бездна</h2>
+<table>
+  <tr>
+    <td>Сезон</td>
+    <td>89</td>
+  </tr>
+  <tr>
+    <td>Всего сражений</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Всего побед</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Максимальный этаж</td>
+    <td>12-3</td>
+  </tr>
+  <tr>
+    <td>Всего звёзд</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>Попыток битв</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Максимум побед</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Самый мощный удар</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Макс. полученного урона</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Выполнено взрывов стихий</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Элементальные навыки</td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -703,6 +773,89 @@
   </table>
 </details>
 <details>
+  <summary><b>Аяка</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Аяка</h3></th>
+      <th><h3 align="center">Амэнома Кагэути</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0557e5cef2a1cdea5d10646595749f58.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>
+              2 x Заблудший в метели<br />2 x Воспоминания Симэнавы<br />1 x
+              Горящая алая ведьма<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Амэнома Кагэути</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Райдэн</b></summary>
   <br />
   <table>
@@ -861,89 +1014,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Аяка</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Аяка</h3></th>
-      <th><h3 align="center">Амэнома Кагэути</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0557e5cef2a1cdea5d10646595749f58.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>
-              2 x Заблудший в метели<br />2 x Воспоминания Симэнавы<br />1 x
-              Горящая алая ведьма<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Амэнома Кагэути</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>2</td>
           </tr>
         </table>
       </td>
@@ -2928,7 +2998,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Артифакты</td>
