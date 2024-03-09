@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Опыт искателя приключений</td>
+    <td>3 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>654</td>
+    <td>701</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>367</td>
+    <td>368</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>46</td>
+    <td>48</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>361</td>
+    <td>393</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>2152</td>
+    <td>2311</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1473</td>
+    <td>1532</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>433</td>
+    <td>464</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>156</td>
+    <td>171</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>140</td>
+    <td>163</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>47</td>
+    <td>54</td>
   </tr>
 </table>
 
@@ -216,7 +216,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/58/" width="80" />
+            <img src="https://progress-bar.dev/60/" width="80" />
           </td>
         </tr>
         <tr>
@@ -230,7 +230,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/44/" width="80" />
+            <img src="https://progress-bar.dev/46/" width="80" />
           </td>
         </tr>
         <tr>
@@ -244,7 +244,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/39/" width="80" />
+            <img src="https://progress-bar.dev/43/" width="80" />
           </td>
         </tr>
         <tr>
@@ -258,7 +258,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/82/" width="80" />
+            <img src="https://progress-bar.dev/98/" width="80" />
           </td>
         </tr>
         <tr>
@@ -375,7 +375,7 @@
         </tr>
         <tr>
           <td>Уровень</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -393,7 +393,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>211</td>
+    <td>212</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -424,27 +424,84 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (9)<br />
+    </td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (206262)<br />
+    </td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (11253)<br />
+    </td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (6)<br />
+    </td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (21)<br />
+    </td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -2998,7 +3055,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -3507,6 +3564,86 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Ци Ци</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Ци Ци</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Тупой меч</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
