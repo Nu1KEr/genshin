@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -426,11 +426,6 @@
     <td>Попыток битв</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -445,7 +440,12 @@
         ,
         height="18"
       />
-      Xingqiu (12)<br />
+      Xingqiu (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (12)<br />
     </td>
   </tr>
   <tr>
@@ -708,11 +708,11 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -905,7 +905,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -1328,7 +1328,7 @@
   <table>
     <tr>
       <th><h3 align="center">Янь Фэй</h3></th>
-      <th><h3 align="center">Песнь странника</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
     </tr>
     <tr>
       <td>
@@ -1341,7 +1341,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/ba8ba52e83c6a231cf6b53a9fe317eef.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
           />
         </p>
       </td>
@@ -1385,19 +1385,19 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Песнь странника</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>70</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>3</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1968,6 +1968,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Яэ Мико</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Яэ Мико</h3></th>
+      <th><h3 align="center">Песнь странника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/ba8ba52e83c6a231cf6b53a9fe317eef.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Песнь странника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>3</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Путешественник</b></summary>
   <br />
   <table>
@@ -2000,7 +2080,7 @@
           </tr>
           <tr>
             <td>Элемент</td>
-            <td>Geo</td>
+            <td>Dendro</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -2371,6 +2451,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Дэхья</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Дэхья</h3></th>
+      <th><h3 align="center">Меч-колокол</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/4daff5cd84e8ec4fe38987924f736ded.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Меч-колокол</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Рэйзор</b></summary>
   <br />
   <table>
@@ -2655,7 +2815,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -3251,6 +3411,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Дори</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Дори</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f8f612528a3f222bd0d69062887b2a6a.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Двуручный меч богатыря</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Кандакия</b></summary>
   <br />
   <table>
@@ -3336,7 +3576,7 @@
   <table>
     <tr>
       <th><h3 align="center">Лайла</h3></th>
-      <th><h3 align="center">Прототип: Злоба</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -3349,7 +3589,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/5e549a61059e4745445677c3cd76c70e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
           />
         </p>
       </td>
@@ -3391,19 +3631,19 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Злоба</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>80</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>3</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3472,6 +3712,86 @@
           <tr>
             <td>Название</td>
             <td>Лук охотника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Шарлотта</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Шарлотта</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Charlotte.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3576,7 +3896,7 @@
   <table>
     <tr>
       <th><h3 align="center">Ци Ци</h3></th>
-      <th><h3 align="center">Тупой меч</h3></th>
+      <th><h3 align="center">Прототип: Злоба</h3></th>
     </tr>
     <tr>
       <td>
@@ -3589,7 +3909,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/5e549a61059e4745445677c3cd76c70e.png"
           />
         </p>
       </td>
@@ -3631,19 +3951,19 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Тупой меч</td>
+            <td>Прототип: Злоба</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>1</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -3731,86 +4051,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Дори</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Дори</h3></th>
-      <th><h3 align="center">Двуручный меч богатыря</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f8f612528a3f222bd0d69062887b2a6a.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Двуручный меч богатыря</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Яо Яо</b></summary>
   <br />
   <table>
@@ -3855,7 +4095,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -4032,86 +4272,6 @@
           <tr>
             <td>Название</td>
             <td>Тупой меч</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Шарлотта</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Шарлотта</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Charlotte.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
