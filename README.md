@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>20 x Камень Истока</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>701</td>
+    <td>728</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>368</td>
+    <td>369</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>393</td>
+    <td>426</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>211</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>2311</td>
+    <td>2375</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1532</td>
+    <td>1609</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>464</td>
+    <td>488</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>171</td>
+    <td>183</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>163</td>
+    <td>179</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>54</td>
+    <td>55</td>
   </tr>
 </table>
 
@@ -244,7 +244,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/43/" width="80" />
+            <img src="https://progress-bar.dev/59/" width="80" />
           </td>
         </tr>
         <tr>
@@ -258,7 +258,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/98/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -426,16 +426,16 @@
     <td>Попыток битв</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
       Kamisato Ayaka (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -790,7 +790,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -870,7 +870,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -1398,6 +1398,86 @@
           <tr>
             <td>Пробуждение</td>
             <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Яэ Мико</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Яэ Мико</h3></th>
+      <th><h3 align="center">Песнь странника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/ba8ba52e83c6a231cf6b53a9fe317eef.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Песнь странника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -1961,86 +2041,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Яэ Мико</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Яэ Мико</h3></th>
-      <th><h3 align="center">Песнь странника</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/ba8ba52e83c6a231cf6b53a9fe317eef.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Песнь странника</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>3</td>
           </tr>
         </table>
       </td>
