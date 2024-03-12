@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Редисовые шарики</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>728</td>
+    <td>754</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>369</td>
+    <td>371</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>426</td>
+    <td>429</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>2375</td>
+    <td>2379</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1609</td>
+    <td>1627</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>488</td>
+    <td>499</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>183</td>
+    <td>191</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>179</td>
+    <td>181</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>55</td>
+    <td>56</td>
   </tr>
 </table>
 
@@ -244,12 +244,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/59/" width="80" />
+            <img src="https://progress-bar.dev/61/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Репутация</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -393,7 +393,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>212</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -426,11 +426,6 @@
     <td>Попыток битв</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -445,7 +440,12 @@
         ,
         height="18"
       />
-      Mona (12)<br />
+      Mona (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (12)<br />
     </td>
   </tr>
   <tr>
