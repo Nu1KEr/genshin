@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>374</td>
+    <td>375</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -430,26 +430,26 @@
     <td>Попыток битв</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
       Kamisato Ayaka (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
       Mona (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Shenhe (12)<br />
+      Xingqiu (12)<br />
     </td>
   </tr>
   <tr>
