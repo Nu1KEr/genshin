@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Рыбацкий бутерброд</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>375</td>
+    <td>376</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1627</td>
+    <td>1628</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
@@ -248,7 +248,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/61/" width="80" />
+            <img src="https://progress-bar.dev/62/" width="80" />
           </td>
         </tr>
         <tr>
@@ -430,26 +430,26 @@
     <td>Попыток битв</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
       Kamisato Ayaka (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
       Mona (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Xingqiu (12)<br />
+      Shenhe (12)<br />
     </td>
   </tr>
   <tr>
