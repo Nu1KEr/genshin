@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>755</td>
+    <td>756</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>380</td>
+    <td>381</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -408,11 +408,11 @@
 <table>
   <tr>
     <td>Сезон</td>
-    <td>89</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Всего сражений</td>
-    <td>12</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Всего побед</td>
@@ -424,88 +424,31 @@
   </tr>
   <tr>
     <td>Всего звёзд</td>
-    <td>36</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (9)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (206262)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (11253)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (6)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (21)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
