@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>3 x Опыт героя</td>
   </tr>
 </table>
 
@@ -428,27 +428,68 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      Yae Miko (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (8)<br />
+    </td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (162756)<br />
+    </td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (22119)<br />
+    </td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (24)<br />
+    </td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      Yae Miko (42)<br />
+    </td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -847,6 +888,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Яэ Мико</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Яэ Мико</h3></th>
+      <th><h3 align="center">Песнь странника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/89b1908b64fd52cfd871fd8cb17ca806.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>1 x Позолоченные сны<br /></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Песнь странника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>3</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Райдэн</b></summary>
   <br />
   <table>
@@ -920,6 +1039,84 @@
           <tr>
             <td>Пробуждение</td>
             <td>3</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Син Цю</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Син Цю</h3></th>
+      <th><h3 align="center">Церемониальный меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0d06e82b6bef3a83ef55eb41cffa8647.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>2 x Конец гладиатора<br /></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Церемониальный меч</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -1001,84 +1198,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Яэ Мико</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Яэ Мико</h3></th>
-      <th><h3 align="center">Песнь странника</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/89b1908b64fd52cfd871fd8cb17ca806.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>1 x Позолоченные сны<br /></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Песнь странника</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>3</td>
           </tr>
         </table>
       </td>
@@ -1240,84 +1359,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Син Цю</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Син Цю</h3></th>
-      <th><h3 align="center">Церемониальный меч</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0d06e82b6bef3a83ef55eb41cffa8647.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>2 x Конец гладиатора<br /></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Церемониальный меч</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>2</td>
           </tr>
         </table>
       </td>
